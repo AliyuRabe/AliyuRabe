@@ -1,0 +1,7 @@
+.burn{
+    background-image: url(flame.gif);
+    background-size: cover;
+    background-position: center;
+    color: transparent;
+    -webkit-background-clip: text;
+}
